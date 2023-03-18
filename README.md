@@ -6,7 +6,7 @@ I made this game to experiment with Unreal engine and just to have some fun
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zQ0Dpmlm9v4)
 
 # Development Environment
 
